@@ -8,3 +8,23 @@ img {
     width: 100%;
     height: auto;
   }
+
+  /* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 238, 6);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(181, 181, 181);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(181, 181, 181);
+  }
