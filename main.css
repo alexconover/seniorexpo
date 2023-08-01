@@ -1,13 +1,9 @@
 body {
     font-family: sans-serif;
-
+    background-color: green;
 }
 
 img {
     width: 100%;
     height: auto;
-  }
-
-  body {
-    background-color: green;
   }
